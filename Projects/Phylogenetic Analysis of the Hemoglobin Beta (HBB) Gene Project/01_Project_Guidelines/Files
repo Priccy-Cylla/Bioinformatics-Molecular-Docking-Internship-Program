@@ -1,1 +1,65 @@
+## Methodology
+
+---
+
+# Step 1 – Retrieval of the Query Sequence
+
+Download the Human Haemoglobin sub-unit beta protein sequence (RefSeq Accession Number: P68871.2) from the NCBI Protein database.
+
+# Step 2 – Identification of Homologs
+
+Use **BLASTp** to identify homologous HBB protein sequences from mammalian species and download the selected sequences in FASTA format.
+
+# Step 3 – Multiple Sequence Alignment
+
+Import the query sequence and homologous protein sequences into **MEGA 12** and perform a multiple sequence alignment using the **ClustalW** algorithm.
+
+# Step 4 – Phylogenetic Analysis
+
+Construct a **Neighbor-Joining (NJ)** phylogenetic tree in **MEGA 12** using the aligned protein sequences. Perform **1,000 bootstrap replicates** to evaluate branch support.
+
+# Step 5 – Tree Visualization
+
+Import the generated tree into **iTOL** to visualize, annotate, and export a publication-quality phylogenetic tree.
+
+---
+
+## Deliverables
+
+---
+
+* Human HBB protein sequence (FASTA)
+* BLASTp search results
+* Selected homologous protein sequences
+* Multiple sequence alignment
+* Neighbor-Joining phylogenetic tree
+* Annotated phylogenetic tree (iTOL)
+* Project report
+
+---
+
+## Learning Outcomes
+
+---
+
+By completing this project, participants will be able to:
+* Retrieve biological sequences from public databases.
+* Perform protein similarity searches using BLASTp.
+* Select homologous sequences for comparative analysis.
+* Conduct multiple sequence alignment using ClustalW.
+* Construct phylogenetic trees in MEGA 12.
+* Visualize phylogenetic trees using iTOL.
+* Interpret evolutionary relationships based on protein sequence conservation.
+
+---
+
+## References
+
+---
+
+* NCBI Protein Database
+* BLASTp (Basic Local Alignment Search Tool)
+* MEGA 12 (Molecular Evolutionary Genetics Analysis)
+* ClustalW
+* Interactive Tree of Life (iTOL)
 
