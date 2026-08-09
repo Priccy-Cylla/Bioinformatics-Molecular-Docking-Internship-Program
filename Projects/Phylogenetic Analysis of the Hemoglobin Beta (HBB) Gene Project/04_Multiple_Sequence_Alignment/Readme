@@ -1,1 +1,3 @@
-
+# Multiple Sequence Alignment
+---
+The query sequence of the HBB protein, together with the selected homologous protein sequences retrieved from the BLASTp analysis, was imported into **MEGA 12** for multiple sequence alignment. The alignment was performed using the **ClustalW** algorithm to identify conserved regions and sequence variations among the HBB proteins. The resulting alignment was used as the input to construct a phylogenetic tree.
