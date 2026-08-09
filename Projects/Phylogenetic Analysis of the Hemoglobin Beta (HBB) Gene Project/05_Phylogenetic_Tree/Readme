@@ -1,1 +1,3 @@
-
+# Phylogenetic Tree Construction
+---
+The multiple sequence alignment generated in **MEGA 12** was used to construct a phylogenetic tree using the **Neighbor-Joining (NJ)** method. Bootstrap analysis (1,000 replicates) was performed to assess the reliability of the inferred evolutionary relationships among the HBB protein sequences. The resulting tree was exported for further visualization and annotation in iTOL.
