@@ -1,1 +1,76 @@
+# 🧬 Project : Phylogenetic Analysis of the Hemoglobin Beta (HBB) Gene
 
+---
+
+## Overview
+
+This project explores the Phylogenetic Analysis of the Hemoglobin Beta (HBB) Gene through comparative bioinformatics analysis. Using the human HBB protein as the reference sequence, homologous proteins from different mammalian species were identified. They were then aligned and analyzed to infer their evolutionary relationships.
+
+---
+
+# Objectives
+
+* Retrieve the human HBB protein sequence from the NCBI Protein database.
+* Identify homologous HBB proteins using BLASTp.
+* Perform multiple sequence alignment using ClustalW in MEGA 12.
+* Construct a Neighbor-Joining phylogenetic tree.
+* Visualize and annotate the phylogenetic tree using iTOL.
+* Interpret the evolutionary relationships among HBB proteins.
+
+---
+
+# Workflow
+
+NCBI Protein Database
+        │
+        ▼
+Retrieve Human HBB Protein
+(RefSeq: P68871.2)
+        │
+        ▼
+BLASTp Search
+(Find Homologous Proteins)
+        │
+        ▼
+Download Protein Sequences
+        │
+        ▼
+MEGA 12
+ClustalW Multiple Sequence Alignment
+        │
+        ▼
+Construct Neighbor-Joining Phylogenetic Tree
+        │
+        ▼
+Export Tree (.nwk)
+        │
+        ▼
+iTOL
+Tree Visualization & Annotation
+
+```
+
+# Software and Databases
+
+| Tool         | Purpose                                               |
+| ------------ | ----------------------------------------------------- |
+| NCBI Protein | Retrieve HBB protein sequence                         |
+| BLASTp       | Identify homologous protein sequences                 |
+| MEGA 12      | Multiple sequence alignment and phylogenetic analysis |
+| ClustalW     | Multiple sequence alignment algorithm                 |
+| iTOL         | Tree visualization and annotation                     |
+
+---
+
+# Project Structure
+
+Project-HBB-Protein/
+│
+├── README.md
+├── 01_NCBI_Protein/
+├── 02_BLASTp_Analysis/
+├── 03_Multiple_Sequence_Alignment/
+├── 04_Phylogenetic_Tree/
+├── 05_iTOL_Visualization/
+├── 06_Project_Report/
+└── Resources/
