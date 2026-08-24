@@ -1,1 +1,9 @@
 
+
+The following files are contained in this folder:
+
+| File              | Format          | Use                                       |
+| ----------------- | --------------- | ----------------------------------------- |
+| Coordinates       | Legacy.pdb      | Input for refinement/validation tools     |
+| Sequence          | .fasta          | Confirm chain identity                    |
+| Validation report | .pdf            | Baseline quality metrics (pre-refinement) |
