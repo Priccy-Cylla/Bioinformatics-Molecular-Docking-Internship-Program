@@ -1,1 +1,35 @@
+# Protein Structure Refinement and Validation
 
+---
+
+# Steps Taken
+---
+1. Searched through the RCSB PDB with the following filters: 
+Resolution: 2.5–3.0 Å
+Method: X-ray diffraction
+
+2. Protein Structure was retrieved.
+Protein Name: Vascular endothelial growth factor D
+PDB ID: 2XV7
+Organism: Homo sapiens
+Resolution: 2.90 Å
+Chains: 1
+Ligands: MAN (alpha-D-mannopyranose)
+
+3. The following files were then downloaded:
+| File              | Format          | Use                                       |
+| ----------------- | --------------- | ----------------------------------------- |
+| Coordinates       | Legacy.pdb      | Input for refinement/validation tools     |
+| Sequence          | .fasta          | Confirm chain identity                    |
+| Validation report | .pdf            | Baseline quality metrics (pre-refinement) |
+
+4. The protein structure was then refined using GalaxyRefine.
+The .pdb file was uploaded, and the refinement tool ran.
+Five (5) independent models were generated and saved, together with the score table for all 5 models.
+
+5. The original protein structure and all 5 refined models were validated using ERRAT and PROCHECK.
+ERRAT: The overall quality factor (%) and the residue-vs-error plot for each model, together with the original structure, were downloaded.
+PROCHECK: The Ramachandran plot and G-factor for the original structure and all 5 models were downloaded. Residues in most-favoured regions and residues in disallowed regions for all models were recorded.
+
+6. All models were then compared and the best model chosen out of them. 
+A justifiable reason for the selection was stated, based on the following factors: Highest ERRAT score, Highest % favoured, and Lowest % disallowed.
