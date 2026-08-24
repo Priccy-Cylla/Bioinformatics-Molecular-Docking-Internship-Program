@@ -1,1 +1,13 @@
+# Protein Structure Validation
+
+---
+
+# Tools Used:
+1. ERRAT
+2. PROCHECK
+
+# Files included in this folder:
+1. ERRAT overall quality factor score (%) and Residue-vs-Error Plot for all 5 refined models.
+2. PROCHECK Ramachandran Plot and G-Factor summary for all 5 refined models.
+3. Comparison of all models and the original protein structure, consisting of ERRAT score, Residues in most-favoured regions, and residues in disallowed regions.
 
