@@ -1,0 +1,13 @@
+This directory contains a sequence similarity search of the Hemoglobin subunit alpha using BLASTp analysis.
+
+Below are the steps taken:
+1. Protein Sequence was retrieved from the NCBI Protein Database using the protein accession ID P69905.
+2. The corresponding record was opened and the complete FASTA sequence copied.
+3. The copied FASTA sequence was pasted into the query box in NCBI BLASTp and sequence similarity search was done via NCBI BLASTp, while keeping all parameters at their default settings.
+4. The Top 20 BLASTp hits were analysed by examining the Query Coverage, Percent Identity, Conserved Regions, Functional Annotation, and Homologous proteins from different species.
+
+The following files have been uploaded:
+1. Query Sequence (.fasta)
+2. Sequence Record (.txt)
+3. Top 20 BLAST Hits Table (.xlsx), detailing Organisms, Protein Accession IDs, Percent Identity, and Query Coverage
+4. Alignment Results (.xml)
