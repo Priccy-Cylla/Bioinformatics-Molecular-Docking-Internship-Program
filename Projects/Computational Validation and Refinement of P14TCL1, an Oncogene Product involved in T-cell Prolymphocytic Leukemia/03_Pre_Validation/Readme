@@ -1,1 +1,9 @@
+This folder contains a pre-refinement validation of the original protein structure using three tools:
 
+1. ERRAT: This validation tool was used to evaluate overall quality/unfavorable non-bonded interactions.
+Attached files include ERRAT overall quality factor (.pdf) and ERRAT plot (.png) showing key unfavorable regions.
+
+2. PROCHECK: This tool was used to evaluate the stereochemical quality via the Ramachandran plot.
+Attached files include the Ramachandran plot (.pdf), All Residue plot (.pdf), and PROCHECK Summary (.txt).
+
+3. 
