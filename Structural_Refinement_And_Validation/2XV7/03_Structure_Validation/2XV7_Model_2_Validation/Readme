@@ -1,1 +1,12 @@
+# Model 2 Validation
 
+---
+
+# Tools Used:
+1. ERRAT
+2. PROCHECK
+
+# Files included in this folder:
+1. ERRAT overall quality factor score (%) (.png).
+2. ERRAT Residue-vs-Error Plot (.jpeg).
+3. PROCHECK Ramachandran Plot (.png).
