@@ -1,1 +1,5 @@
+# Post-refinement validation
 
+This directory contains the post-refinement validation results of the best refined model structure.
+All refined models were evaluated based on overall structural quality, and the best model was selected (Model 1).
+The same three validation tools (ERRAT, PROCHECK, and Verify3D) were run on the selected refined structure (Model 1), and the new results for each tool recorded and uploaded in this folder.
