@@ -4,7 +4,7 @@
 
 Step 1: Retrieve the Nucleotide Sequence
 1. Visit the NCBI Nucleotide Database.
-2. Search using the nucleotide accession ID .
+2. Search using the nucleotide accession ID NM_001126112.
 3. Open the corresponding record.
 4. Click FASTA.
 5. Copy the complete FASTA sequence.
@@ -23,8 +23,8 @@ E-value (values close to 0 indicate highly significant matches)
 Percent Identity
 Query Coverage
 2. Interpretation
-90–100% Query Coverage: Strong similarity across almost the entire nucleotide 	sequence.
-50–89% Query Coverage: Partial similarity; conserved regions or domains may 	be present.
+90–100% Query Coverage: Strong similarity across almost the entire nucleotide	sequence.
+50–89% Query Coverage: Partial similarity; conserved regions or domains may be present.
 Below 50% Query Coverage: Weak or fragmentary similarity.
 
 Step 4: Task 
@@ -43,7 +43,7 @@ Sr. No.|	Organism |	Accession ID |	Percent Identity |	Query Coverage |
 
 Step 1: Retrieve the Protein Sequence
 1. Visit the NCBI Protein Database.
-2. Search using the protein accession ID .
+2. Search using the protein accession ID P69905.
 3. Open the protein record.
 4. Click FASTA.
 5. Copy the amino acid sequence.
@@ -71,3 +71,4 @@ Sr. No. |	Organism |	Protein Accession ID |	Percent Identity |	Query Coverage |
 2.				
 ...				
 20.
+
