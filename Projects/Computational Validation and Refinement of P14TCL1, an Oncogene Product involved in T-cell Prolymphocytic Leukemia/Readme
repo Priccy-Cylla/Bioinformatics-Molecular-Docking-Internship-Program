@@ -1,1 +1,51 @@
+# Computational Validation and Refinement of P14TCL1, an Oncogene Product Involved in T-cell Prolymphocytic Leukemia
+
+---
+
+# Overview
+
+Select an oncology-related PDB structure; perform a pre-validation analysis using ERRAT, PROCHECK, and Verify3D; refine it with GalaxyRefine; perform a post-validation of the refined structure; and then quantitatively compare quality metrics and interpret the results in an oncology research context.
+
+# Workflow
+
+Select the Protein Structure
+        ↓
+
+Retrieve the Raw PDB Structure
+        ↓
+
+Inspect the Raw Structure
+        ↓
+
+Pre-Refinement Validation (ERRAT, PROCHECK and Verify3D)
+        ↓
+
+Prepare the Pre-Validation Results
+        ↓
+
+Identify Structural Quality Issues
+        ↓
+
+Structure Refinement Using GalaxyRefine
+        ↓
+
+Post-Refinement Validation
+        ↓
+
+Compile Post-Refinement Results
+        ↓
+
+Pre- vs Post-Refinement Comparison
+        ↓
+
+Structural Visualization
+        ↓
+
+Oncology-Based Structural Interpretation
+        ↓
+
+Assess Suitability for Downstream Research
+        ↓
+
+Final Scientific Conclusion
 
