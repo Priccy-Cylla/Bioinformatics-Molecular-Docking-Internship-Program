@@ -1,1 +1,18 @@
+The single-chain PDB structure was uploaded and submitted to GalaxyRefine for refinement. 5 models were generated.
+This directory contains a summary table of all 5 models.
 
+# Workflow
+
+Original PDB Upload to GalaxyRefine
+  ↓
+
+Refinement 
+  ↓
+
+5 Generated Models
+  ↓
+
+Model Evaluation
+  ↓
+
+Model Selection
