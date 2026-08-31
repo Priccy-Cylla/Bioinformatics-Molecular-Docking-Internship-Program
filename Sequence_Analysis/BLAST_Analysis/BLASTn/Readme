@@ -1,1 +1,13 @@
+This directory contains a sequence similarity search of the Homo sapiens tumor protein p53 [TP53 (transcript variant 2, mRNa)] using BLASTn analysis.
 
+Below are the steps taken:
+1. Nucleotide Sequence was retrieved from the NCBI Nucleotide Database using the nucleotide accession ID NM_001126112.
+2. The corresponding record was opened and the complete FASTA sequence copied.
+3. The copied FASTA sequence was pasted into the query box on NCBI BLASTn and sequence similarity search was done via NCBI BLASTn, while keeping all parameters at their default settings.
+4. The Top 20 BLASTn hits were analysed by examining the Query Coverage, Percent Identity, Conserved Regions, Functional Annotation, and Homologous proteins from different species.
+
+The following files have been uploaded:
+1. Query Sequence (.fasta)
+2. Sequence Record (.txt)
+3. Top 20 BLAST Hits Table (.xlsx), detailing Organisms, Accession IDs, Percent Identity, and Query Coverage.
+4. Alignment Results (.xml)
