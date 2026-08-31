@@ -1,15 +1,73 @@
-# BLAST INTERPRETATION REPORT 
-# Significance of BLAST Results
-For BLASTn results, the query sequence is highly homologous to tumor protein p53 (TP53) sequences from Homo sapiens and closely related primates. This shows that the query represents the TP53 gene or protein. It had low E-values (of 0), high BLAST scores, and very high sequence similarity, confirming that the matches are statistically significant and hence did not occur by chance.
+# Nucleotide Sequence Analysis (BLASTn)
 
-# Query Coverage
-Query coverage refers to the percentage of the query sequence that aligns with the database sequence. This sequence shows a query coverage close to 100%, indicating that almost the whole query sequence matched the subject sequences. This informs us that the complete gene or protein was not only a fragment but was identified.
+---
 
-# Percent Identity
-Percent identity measures the proportion of identical nucleotides or amino acids in the aligned regions. This sequence had approximately 99 to 100 percent identity for human TP53 sequences and a bit lower for non-human primates. The very high percent identity reflects strong evolutionary conservation and indicates that these sequences have the same biological function. 
+Step 1: Retrieve the Nucleotide Sequence
+1. Visit the NCBI Nucleotide Database.
+2. Search using the nucleotide accession ID .
+3. Open the corresponding record.
+4. Click FASTA.
+5. Copy the complete FASTA sequence.
 
-# Conserved Regions (for protein)
-For BLASTp results, conserved regions correspond to functional domains that have remained largely unchanged throughout evolution because they are vital for protein activity. In p53, conserved domains like the DNA-binding domain are required for regulating cell-cycle progression, DNA repair, and apoptosis.
+Step 2: Perform BLASTn
+1. Open NCBI BLAST.
+2. Select BLASTn (Nucleotide BLAST).
+3. Paste the copied FASTA sequence into the query box.
+4. Keep all parameters at their default settings.
+5. Click BLAST and wait for the analysis to complete.
 
-# Biological Relationship between the Identified Homologs
-The identified homologs share a common evolutionary origin. They are orthologous genes, indicating that TP53 has been highly conserved across mammals due to its vital role as a tumor suppressor and guardian of genome integrity.
+Step 3: Analyze the BLAST Results
+1. Carefully examine the following parameters:
+Max Score / Bit Score
+E-value (values close to 0 indicate highly significant matches)
+Percent Identity
+Query Coverage
+2. Interpretation
+90–100% Query Coverage: Strong similarity across almost the entire nucleotide 	sequence.
+50–89% Query Coverage: Partial similarity; conserved regions or domains may 	be present.
+Below 50% Query Coverage: Weak or fragmentary similarity.
+
+Step 4: Task 
+1. Record the Top 20 BLASTn hits in a table containing:
+Sr. No.|	Organism |	Accession ID |	Percent Identity |	Query Coverage |
+1.				
+2.				
+...				
+20.				
+
+---
+
+# Protein Sequence Analysis (BLASTp)
+
+---
+
+Step 1: Retrieve the Protein Sequence
+1. Visit the NCBI Protein Database.
+2. Search using the protein accession ID .
+3. Open the protein record.
+4. Click FASTA.
+5. Copy the amino acid sequence.
+
+Step 2: Perform BLASTp
+1. Open NCBI BLAST.
+2. Select BLASTp (Protein BLAST).
+3. Paste the FASTA amino acid sequence.
+4. Use the default search parameters.
+5. Click BLAST.
+
+Step 3: Analyze the BLAST Results
+1. Evaluate the following:
+Query Coverage
+Percent Identity
+Conserved Regions
+Functional Annotation
+Homologous proteins from different species
+
+Step 4: Task 
+1. Compare the human protein with homologous proteins from other organisms.
+Record the Top 20 BLASTp hits in the following table:
+Sr. No. |	Organism |	Protein Accession ID |	Percent Identity |	Query Coverage |
+1.				
+2.				
+...				
+20.
