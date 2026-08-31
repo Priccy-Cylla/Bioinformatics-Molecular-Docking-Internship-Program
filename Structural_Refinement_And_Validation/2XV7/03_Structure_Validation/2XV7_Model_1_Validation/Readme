@@ -1,1 +1,12 @@
+# Model 1
 
+---
+
+# Tools Used:
+1. ERRAT
+2. PROCHECK
+
+# Files included in this folder:
+1. ERRAT overall quality factor score (%)  
+2. Residue-vs-Error Plot.
+3. PROCHECK Ramachandran Plot and G-Factor summary.
