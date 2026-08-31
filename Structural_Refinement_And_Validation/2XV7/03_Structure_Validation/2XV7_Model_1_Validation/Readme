@@ -1,4 +1,4 @@
-# Model 1
+# Model 1 Validation
 
 ---
 
@@ -7,6 +7,6 @@
 2. PROCHECK
 
 # Files included in this folder:
-1. ERRAT overall quality factor score (%)  
-2. Residue-vs-Error Plot.
-3. PROCHECK Ramachandran Plot and G-Factor summary.
+1. ERRAT overall quality factor score (%) (.png).
+2. ERRAT Residue-vs-Error Plot (.jpeg).
+3. PROCHECK Ramachandran Plot (.png).
