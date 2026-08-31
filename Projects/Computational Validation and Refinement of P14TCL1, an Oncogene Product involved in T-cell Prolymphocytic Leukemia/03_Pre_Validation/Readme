@@ -6,4 +6,7 @@ Attached files include ERRAT overall quality factor (.pdf) and ERRAT plot (.png)
 2. PROCHECK: This tool was used to evaluate the stereochemical quality via the Ramachandran plot.
 Attached files include the Ramachandran plot (.pdf), All Residue plot (.pdf), and PROCHECK Summary (.txt).
 
-3. 
+3. Verify3D: This validation tool was used to evaluate compatibility between the 3D structure and its amino-acid sequence environment.
+Attached files include Verify3D plot (.png)
+
+Included here in this folder are also the combined pre-validation results of all 3 tools.
