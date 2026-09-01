@@ -1,1 +1,7 @@
+# Steps Taken:
+---
+* The .pdf file was then uploaded to PyMOL for structural inspection. Using the ASHLC panel (Action, Show, Hide, Label, Colour), the Cartoon feature, which simplifies the protein backbone by showing α-helices as coils and β-sheets as flat arrows, was selected. The ligand bonded to it was selected, and the Sticks Feature was used to show active sites.
+* This was then saved as a .pse file and the graphical image saved in the .png file format.
 
+Ligand bonded to protein structure: Lisinopril (LPR)
+Tool used: PyMol
