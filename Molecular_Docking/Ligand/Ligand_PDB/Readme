@@ -1,1 +1,2 @@
-
+Because the ligands were downloaded in the SDF file format from PubChem, each of these SDF files had to be converted and saved in the PDB file format for docking purposes.
+Tool Used: Biovia Discovery Studio
