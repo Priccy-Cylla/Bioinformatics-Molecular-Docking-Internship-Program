@@ -1,1 +1,6 @@
+# Steps
+---
+* The pdb file of the structure was uploaded to Biovia Discovery Studio for protein cleaning. All chains of the protein were deleted, leaving only chain A. All ligand groups were deleted from the structure. Active sites, water molecules, and other molecules were also deleted from the structure. To ensure a cleaned protein, a single chain A and protein groups were left on the structure.
+* The cleaned protein structure was then saved in the PDB file format.
 
+Tool Used: Biovia Discovery Studio
