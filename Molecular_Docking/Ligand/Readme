@@ -1,1 +1,18 @@
+# File Formats of Ligands:
+---
+1. Raw Ligands in .sdf file format.
+2. .pdb file format of all ligands
 
+# Ligand Details:
+---
+1. PubChem CID: 5280343
+Ligand Name: Quercetin
+Molecular Formula: C15H10O7
+
+2. PubChem CID: 5362119
+Ligand Name: Lisinopril
+Molecular Formula: C21H31N3O5
+
+3. PubChem CID: 5388962
+Ligand Name: Enalapril
+Molecular Formula: C20H28N2O5
