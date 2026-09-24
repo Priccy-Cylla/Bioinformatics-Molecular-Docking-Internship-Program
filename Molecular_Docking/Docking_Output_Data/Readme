@@ -1,1 +1,13 @@
+This folder contains the output files generated from the molecular docking analysis of three ligands:
 
+- **Ligand 5280343**
+
+- **Ligand 5362119**
+
+- **Ligand 5388962**
+
+For each ligand, the docking workflow generated two corresponding output files:
+
+1. A docked ligand structure file containing the predicted docking pose(s).
+
+2. A docking log file containing information generated during the docking run.
