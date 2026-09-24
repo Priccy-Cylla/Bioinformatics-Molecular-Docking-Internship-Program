@@ -1,1 +1,16 @@
+The files contained in this directory represent the prepared data required for subsequent docking analysis.
+
+Molecular docking input files include:
+
+| Component | Description |
+
+|---|---|
+
+| Protein structure | Three-dimensional structure of the target protein (pdbqt) |
+
+| Ligand structure | Three-dimensional structure of the small molecule (pdbqt) |
+
+| Docking configuration | Parameters defining the docking search space and other settings (config.txt) |
+
+| Grid Box | Additional files required by the docking software |
 
