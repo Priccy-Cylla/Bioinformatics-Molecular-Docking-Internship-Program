@@ -2,7 +2,7 @@
 ---
 Overview:
 ---
-This directory contains work carried out as part of a Molecular Docking component of a bioinformatics and computational drug discovery training program.
+This directory contains work carried out as part of a Molecular Docking component of a bioinformatics training program.
 
 Molecular docking is a computational approach used to investigate how a small molecule (ligand) may interact with a biological macromolecule, typically a protein target. The technique predicts plausible binding orientations (poses) and provides computational estimates of binding affinity that can be used to explore potential protein–ligand interactions.
 
