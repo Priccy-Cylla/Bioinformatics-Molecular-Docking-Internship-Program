@@ -1,1 +1,7 @@
+# Molecular Docking
+---
+This directory consists of docking of a protein and 3 ligands.
 
+Molecules were first visualised and prepared using MGL Autodock Tools. 
+
+The docking of the molecules was then done with Autodock vina with the help of command prompt. 
