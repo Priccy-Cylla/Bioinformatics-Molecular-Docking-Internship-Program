@@ -1,7 +1,44 @@
-# Molecular Docking
+# 🧬 Molecular Docking
 ---
-This directory consists of docking of a protein and 3 ligands.
+Overview:
+---
+This directory contains work carried out as part of a Molecular Docking component of a bioinformatics and computational drug discovery training program.
 
-Molecules were first visualised and prepared using MGL Autodock Tools. 
+Molecular docking is a computational approach used to investigate how a small molecule (ligand) may interact with a biological macromolecule, typically a protein target. The technique predicts plausible binding orientations (poses) and provides computational estimates of binding affinity that can be used to explore potential protein–ligand interactions.
 
-The docking of the molecules was then done with Autodock vina with the help of command prompt. 
+The work presented in this section demonstrates the application of computational structural biology concepts to protein–ligand interaction analysis and drug discovery.
+
+---
+🎯 Objectives:
+---
+The major objectives of the molecular docking work were to:
+
+* Understand the principles and applications of molecular docking.
+* Prepare protein and ligand structures for computational analysis.
+* Identify and define appropriate binding regions on protein targets.
+* Perform protein–ligand docking simulations.
+* Examine predicted ligand binding poses and interactions.
+* Interpret docking scores as computational measures of binding affinity.
+* Visualize protein–ligand complexes in three dimensions.
+* Develop practical skills in computational drug discovery and structural bioinformatics.
+
+---
+🔬 Molecular Docking Workflow:
+---
+The general workflow followed in this project can be summarized as:
+Protein Structure
+       │
+       ▼
+Protein Preparation
+       │
+       ▼
+Binding Site / Grid Definition
+       │
+       │
+Ligand Structure ──► Ligand Preparation
+       │
+       ▼
+Protein–Ligand Docking
+       │
+       ▼
+Docking Poses & Scores
