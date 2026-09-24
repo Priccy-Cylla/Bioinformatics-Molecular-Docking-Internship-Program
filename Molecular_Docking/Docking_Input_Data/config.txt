@@ -1,0 +1,12 @@
+receptor = 1O86_protein.pdbqt
+
+center_x = 40.668
+center_y = 37.312
+center_z = 43.689
+
+size_x = 24
+size_y = 24
+size_z = 24
+
+exhaustiveness = 16
+num_modes = 9
